@@ -13,7 +13,7 @@ copy content ← ← ← ← ← ← ← ← ← ← ← ← ← ← ←
 ? >
 -----------------------------------------------
 /*
-The same, there are any technical (replacement background login page themes) problem, please contact the official e-mail:friendbox.official@gmail.com
+The same, there are any technical (replacement background login page themes) problem, please contact the official e-mail:honcbb@gmail.com
 */
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 <?php
