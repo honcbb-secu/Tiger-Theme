@@ -1,12 +1,4 @@
-# About Friend Box：
-We are a team come from Taiwan in Asia . We have focus a service named Friend Box (https://fbox.tw) . We created a anonymous social platforms for free and we used everything we can do to made our social platforms better and interesting .
 
-
-# Open source project：
-
-Our open source project mainly made by internal engineer and we hope we can create something to let the internet is open-minded . You can find what you like in our project . We have many project types and haven't included any specific programming language or CMS .
-
-Please respect the project copyright of us. All project is free what we have release , If you have get on any commercial activity used project of us . We reserves the right to take legal action for any breach or violation on the part of you.
 
 # Project  Description：
 
