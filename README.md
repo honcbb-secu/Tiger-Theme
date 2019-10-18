@@ -29,7 +29,7 @@ Next, is to copy the "login" folder inside the "src" folder to the theme you are
 
 # Seek assistance：
 
-If there are any technical problems or project bugs please do not hesitate to open Issues or contact our official email: friendbox.official@gmail.com
+If there are any technical problems or project bugs please do not hesitate to open Issues or contact our official email: honcbb@gmail.com
 
 # License：
 
